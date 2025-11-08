@@ -51,4 +51,4 @@ Planner 5D is built on secure, scalable cloud technology. We use advanced 3D ren
 
 > Ready to Plan Smarter? 
 
-For the engineers and technical partners, please see the `systemArchitecture.md` document for the complete technical breakdown.
+For the engineers and technical partners, please see the [`systemArchitecture.md`](https://github.com/fallowamber/Dimension-Five---Interior-Design-5D-Planner/blob/main/systemArchitecture.md) document for the complete technical breakdown.
