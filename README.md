@@ -41,3 +41,14 @@ Product Catalog Integration: Easily import furniture and material specs/costs fr
 
 ![IMG_20251108_233040](https://github.com/user-attachments/assets/6dd3a1af-f3e6-4d0d-a86e-f0337f5c9f9b)
 
+## The Technology Behind It 
+
+![IMG_20251108_233111](https://github.com/user-attachments/assets/ae326a61-73f9-4d67-9deb-5391f93810e9)
+
+
+Planner 5D is built on secure, scalable cloud technology. We use advanced 3D rendering libraries and a fast, secure cloud backend to ensure your complex design models load instantly, your sensitive project data is protected, fast, accurate, and available from any device.
+
+
+> Ready to Plan Smarter? 
+
+For the engineers and technical partners, please see the `systemArchitecture.md` document for the complete technical breakdown.
